@@ -138,3 +138,8 @@ header {
     color: #fff;
 }
 
+@media (max-width: 300px){
+  .navlist .none{
+    display: none;
+  }
+}
